@@ -19,3 +19,10 @@
 
 # Go workspace file
 go.work
+
+# VsCode folder
+.vscode
+
+# Jetbrains IDE
+.idea
+
